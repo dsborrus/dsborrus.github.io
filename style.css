@@ -4,14 +4,14 @@
   border: 1px solid black;
 }*/
 body {
-	/*border-width: thick;*/
+	background-color:#cccccc;
 	margin-left: 50px;
 	margin-right: 50px;
 }
 
 
 h1 {
-	background-color:#3399ff
+	background-color:#3399ff;
 }
 
 h2{ 
@@ -19,13 +19,11 @@ h2{
 }
 
 h3 {
-	/*background-color: #3399ff;*/
-	/*text-indent: 50px;*/
+
 }
 
 p {
-	/*text-indent: 50px;*/
-  	/*color: red;*/
+
 }
 
 a:visited {
