@@ -33,3 +33,11 @@ a:visited {
 a:hover {
 	color:#16C7CB;
 }
+
+footer, header {
+    padding: 1em;
+    color: black;
+    /*background-color: #3399ff;*/
+    clear: both;
+    text-align: center;
+}
