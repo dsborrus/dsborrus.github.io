@@ -2,8 +2,9 @@
     <channel>
         <title>Website de Daniel</title>
         <link>http://dsborrus.github.io/</link>
-        <description>Website de Daniel</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language>
+        <description>This is the website of Daniel Borrus</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>dsborrus@gmail.com (Daniel Scott Borrus)</managingEditor>
+            <webMaster>dsborrus@gmail.com (Daniel Scott Borrus)</webMaster>
             <atom:link href="http://dsborrus.github.io/index.xml" rel="self" type="application/rss+xml" />
         </channel>
 </rss>
