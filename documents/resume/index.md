@@ -1,4 +1,4 @@
 # Resume
 
 
-![Example Text](/static/BorrusResume.pdf)
+![Example Text](/static/BorrusResume.png)
