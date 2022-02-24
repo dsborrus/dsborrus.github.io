@@ -2,3 +2,4 @@
 
 
 
+![](/static/BorrusCV.png)
