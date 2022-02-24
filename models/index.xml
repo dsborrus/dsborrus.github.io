@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Models on Website de Daniel</title>
+    <link>http://dsborrus.github.io/models/</link>
+    <description>Recent content in Models on Website de Daniel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>dsborrus@gmail.com (Daniel Scott Borrus)</managingEditor>
+    <webMaster>dsborrus@gmail.com (Daniel Scott Borrus)</webMaster>
+    <lastBuildDate>Thu, 24 Feb 2022 10:02:30 -0500</lastBuildDate><atom:link href="http://dsborrus.github.io/models/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://dsborrus.github.io/models/test/</link>
+      <pubDate>Thu, 24 Feb 2022 10:02:30 -0500</pubDate>
+      <author>dsborrus@gmail.com (Daniel Scott Borrus)</author>
+      <guid>http://dsborrus.github.io/models/test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
