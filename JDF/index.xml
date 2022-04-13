@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JDFs on Website de Daniel</title>
+    <link>http://dsborrus.github.io/jdf/</link>
+    <description>Recent content in JDFs on Website de Daniel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>dsborrus@gmail.com (Daniel Scott Borrus)</managingEditor>
+    <webMaster>dsborrus@gmail.com (Daniel Scott Borrus)</webMaster>
+    <lastBuildDate>Wed, 13 Apr 2022 11:35:37 -0400</lastBuildDate><atom:link href="http://dsborrus.github.io/jdf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jan &amp; Doe Ferments</title>
+      <link>http://dsborrus.github.io/jdf/main/</link>
+      <pubDate>Wed, 13 Apr 2022 11:35:37 -0400</pubDate>
+      <author>dsborrus@gmail.com (Daniel Scott Borrus)</author>
+      <guid>http://dsborrus.github.io/jdf/main/</guid>
+      <description>Jan &amp;amp; Doe Ferments specializes in crafting delicious and wonderful foods for the Williamsburg community. From our county-famous hot sauces, to our inventive and renowned wines, you are sure to find something that excites your soul. Coming soon to the Williamsburg and York County farmers markets!</description>
+    </item>
+    
+  </channel>
+</rss>
