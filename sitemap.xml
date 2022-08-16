@@ -2,12 +2,15 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://dsborrus.github.io/jdf/jan-doe-ferments/</loc><lastmod>2022-04-13T12:22:10-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://dsborrus.github.io/jdf/</loc><lastmod>2022-04-13T12:22:10-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://dsborrus.github.io/</loc><lastmod>2022-04-13T12:22:10-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://dsborrus.github.io/documents/</loc><lastmod>2022-03-29T10:25:28-04:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>http://dsborrus.github.io/documents/papers/</loc><lastmod>2022-03-29T10:25:28-04:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>http://dsborrus.github.io/documents/papers/dissertation/</loc><lastmod>2022-03-29T10:21:41-04:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>http://dsborrus.github.io/</loc><lastmod>2022-08-15T20:46:08-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://dsborrus.github.io/photography/wgt2022/wgt2022/</loc><lastmod>2022-08-15T20:46:08-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://dsborrus.github.io/photography/about/</loc><lastmod>2022-08-15T20:31:23-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://dsborrus.github.io/photography/</loc><lastmod>2022-08-15T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://dsborrus.github.io/jdf/jan-doe-ferments/</loc><lastmod>2022-04-13T12:22:10-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://dsborrus.github.io/jdf/</loc><lastmod>2022-04-13T12:22:10-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://dsborrus.github.io/documents/</loc><lastmod>2022-03-29T10:25:28-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://dsborrus.github.io/documents/papers/</loc><lastmod>2022-03-29T10:25:28-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://dsborrus.github.io/documents/papers/dissertation/</loc><lastmod>2022-03-29T10:21:41-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://dsborrus.github.io/models/</loc><lastmod>2022-02-24T10:49:53-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://dsborrus.github.io/documents/cv/</loc><lastmod>2022-02-24T10:09:50-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://dsborrus.github.io/documents/resume/</loc><lastmod>2022-02-24T10:09:46-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
