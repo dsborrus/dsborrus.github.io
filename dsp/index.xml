@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dsp on Website de Daniel</title>
+    <title>Data Science Portfolio on Website de Daniel</title>
     <link>http://dsborrus.github.io/dsp/</link>
-    <description>Recent content in Dsp on Website de Daniel</description>
+    <description>Recent content in Data Science Portfolio on Website de Daniel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>dsborrus@gmail.com (Daniel Scott Borrus)</managingEditor>
